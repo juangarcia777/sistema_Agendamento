@@ -2,7 +2,7 @@
 # Sistema de agendamento
 Sistema de Agendamento para Clinicas em geral.
 
-Possue funcoes como:
+Possue funções como:
 * Filtrar consultas Realizadas e a serem realizadas por datas
 * Calendario responsivo para consultas gerais
 * Agendar Consultas
